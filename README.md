@@ -36,7 +36,8 @@
 
 - For each southern state:
     - **Top 2 pollutants**
-    
+
+
     | Southern States | Prominent Pollutants |
     | --- | --- |
     | Andhra Pradesh | PM10 and PM2.5 |
@@ -45,7 +46,8 @@
     | Tamilnadu | PM10 and PM2.5 |
     | Telangana | PM10 and PM2.5 |
     - **Bottom 2 pollutants**
-    
+
+
     | Southern States | Prominent Pollutants |
     | --- | --- |
     | Andhra Pradesh | NO2 and O3 |
