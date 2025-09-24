@@ -144,5 +144,4 @@
 
 ---
 
-- 🏭 **Competitor Feature Gap Matrix**
-</aside>
+
